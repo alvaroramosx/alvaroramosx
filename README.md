@@ -7,6 +7,6 @@
 <!--Main Banner-->
 <div style="width: 100%; overflow: hidden; position: relative;">
   <img src="https://yt3.googleusercontent.com/eXoTifXiYyYTpa59rg-e2QotMM2Dm7L2zwHLGCsmNeUV1rkxdDk3Og-46UDSJ0bF0Xj48Nrb=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" 
-       style="width: 100%; clip-path: inset(0 25% 0 25%);">
+       style="width: 100%; clip-path: inset(0 50% 0 50%);">
 </div>
 
