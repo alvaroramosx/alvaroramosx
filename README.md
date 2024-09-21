@@ -17,7 +17,7 @@
 </div>
 <!--tech stack icons-->     
 <p align="center">
-  <img width="500px"  src="https://skillicons.dev/icons?i=git,vscode,docker,aws,linux,py,azure,django,mongo,mysql,c,html,css,react,nodejs,figma&perline=10"  />
+  <img width="500px"  src="https://skillicons.dev/icons?i=py,git,vscode,docker,aws,linux,azure,django,mongo,mysql,c,html,css,react,nodejs,figma&perline=10"  />
 </p>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
