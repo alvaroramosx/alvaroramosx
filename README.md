@@ -6,5 +6,5 @@
 
 <!--Main Banner-->
 <div>
-  <img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img src="[https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png](https://yt3.googleusercontent.com/eXoTifXiYyYTpa59rg-e2QotMM2Dm7L2zwHLGCsmNeUV1rkxdDk3Og-46UDSJ0bF0Xj48Nrb=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)">
 </div>
