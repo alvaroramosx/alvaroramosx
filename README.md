@@ -17,6 +17,11 @@
   </ul>
 </div>
 
+<!--tech stack icons-->     
+<p align="center">
+  <img width="500px"  src="https://skillicons.dev/icons?i=py,git,vscode,docker,aws,linux,azure,django,mongo,mysql,c,html,css,react,nodejs,figma&perline=10"  />
+</p>
+
 <!--Start Intro-->               
 ## Sobre mi
 
@@ -27,11 +32,6 @@
 - ❤ Apasionado por contribuir a la comunidad tech y la educación online.
 - 🎮 Amante del deporte y los videojuegos.
 <!--End Intro-->
-
-<!--tech stack icons-->     
-<p align="center">
-  <img width="500px"  src="https://skillicons.dev/icons?i=py,git,vscode,docker,aws,linux,azure,django,mongo,mysql,c,html,css,react,nodejs,figma&perline=10"  />
-</p>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Únete a Mí 🤝 </h3>
 
