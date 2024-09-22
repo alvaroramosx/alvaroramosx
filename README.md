@@ -28,7 +28,7 @@
 - ✨ Machine Learning & Deep Learning Developer.
 - 🌱 Actualmente, sigo aprendiendo y explorando el mundo del Data Science y la Inteligencia Artificial.
 - 💼 Cofundador de [Ipar Estudios](https://iparestudios.com/), agencia especializada en Ciencia de Datos e Investigación de Mercados.
-- 🎥 Creador de contenido sobre ciencia de datos en YouTube[Youtube](https://www.youtube.com/@alvaroramosx).
+- 🎥 Creador de contenido sobre ciencia de datos en [Youtube](https://www.youtube.com/@alvaroramosx).
 - ❤ Apasionado por contribuir a la comunidad tech y la educación online.
 - 🎮 Amante del deporte y los videojuegos.
 <!--End Intro-->
