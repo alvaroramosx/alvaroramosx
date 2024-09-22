@@ -25,7 +25,7 @@
 ## Sobre mi
 
 <a href='https://youtu.be/PBEK4ySLbc4' target='_blank'>
-  <img align="right" width='35%' src='https://img.youtube.com/vi/PBEK4ySLbc4/hqdefault.jpg' alt='¿Qué es REALMENTE el DATA Science?' />
+  <img align="right" width='30%' src='https://img.youtube.com/vi/PBEK4ySLbc4/hqdefault.jpg' alt='¿Qué es REALMENTE el DATA Science?' />
 </a>
 
 <p align="left">
