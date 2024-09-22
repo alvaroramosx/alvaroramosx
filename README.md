@@ -26,9 +26,9 @@
   <img align="right" width='30%' src='https://img.youtube.com/vi/PBEK4ySLbc4/mqdefault.jpg' alt='¿Qué es REALMENTE el DATA Science?' />
 </a>
 
+## Sobre mi
 <p align="left">
 <!--Start Intro-->               
-## Sobre mi
 
 - ✨ Machine Learning & Deep Learning Developer.
 - 🌱 Actualmente, sigo aprendiendo y explorando el mundo del Data Science y la Inteligencia Artificial.
