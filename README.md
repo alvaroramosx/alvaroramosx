@@ -24,27 +24,22 @@
 
 ## Sobre mi
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-<!--Start Intro-->               
+<!--Start Intro-->
+<a target="_blank" align="center">
+<img  align="right"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/></a>
 
 - ✨ Machine Learning & Deep Learning Developer.
+  
 - 🌱 Actualmente, sigo aprendiendo y explorando el mundo del Data Science y la Inteligencia Artificial.
+  
 - 💼 Cofundador de [Ipar Estudios](https://iparestudios.com/), agencia especializada en Ciencia de Datos e Investigación de Mercados.
+  
 - 🎥 Creador de contenido sobre ciencia de datos en [Youtube](https://www.youtube.com/@alvaroramosx).
+  
 - ❤ Apasionado por contribuir a la comunidad tech y la educación online.
+  
 - 🎮 Amante del deporte y los videojuegos.
 <!--End Intro-->
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alvaroramosx&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
-  
-  </td>
-</tr>
-</table>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Únete a Mí 🤝 </h3>
 
