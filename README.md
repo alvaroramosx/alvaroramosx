@@ -9,10 +9,22 @@
   <img src="https://yt3.googleusercontent.com/eXoTifXiYyYTpa59rg-e2QotMM2Dm7L2zwHLGCsmNeUV1rkxdDk3Og-46UDSJ0bF0Xj48Nrb=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" 
        style="width: auto; height: 100%; margin-left: -50%; position: relative; left: 50%;">
 </div>
+
+<!--Start Intro-->               
+<p align="left">Soy un Data Scientist y Desarrollador de Python con   and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+
+- ✨ Machine Learning & Deep Learning Developer.
+- 🌱 Actualmente, sigo aprendiendo y explorando el mundo del Data Science y la Inteligencia Artificial.
+- 💼 Cofundador de [Ipar Estudios](https://iparestudios.com/), agencia especializada en Ciencia de Datos e Investigación de Mercados.
+- 🎥 Creador de contenido sobre ciencia de datos en YouTube[Youtube](https://www.youtube.com/@alvaroramosx).
+- ❤ Apasionado por contribuir a la comunidad tech y la educación online.
+- 🎮 Amante del deporte y los videojuegos.
+<!--End Intro-->
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías que Manejo👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->     
@@ -20,7 +32,7 @@
   <img width="500px"  src="https://skillicons.dev/icons?i=py,git,vscode,docker,aws,linux,azure,django,mongo,mysql,c,html,css,react,nodejs,figma&perline=10"  />
 </p>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Únete a Mí 🤝 </h3>
 
 <p align="center">
 
