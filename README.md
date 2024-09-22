@@ -26,6 +26,7 @@
   <img align="right" width='30%' src='https://img.youtube.com/vi/PBEK4ySLbc4/mqdefault.jpg' alt='¿Qué es REALMENTE el DATA Science?' />
 </a>
 
+<p align="left">
 <!--Start Intro-->               
 ## Sobre mi
 
@@ -35,6 +36,7 @@
 - 🎥 Creador de contenido sobre ciencia de datos en [Youtube](https://www.youtube.com/@alvaroramosx).
 - ❤ Apasionado por contribuir a la comunidad tech y la educación online.
 - 🎮 Amante del deporte y los videojuegos.
+</p>
 <!--End Intro-->
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Únete a Mí 🤝 </h3>
