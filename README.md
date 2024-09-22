@@ -22,11 +22,12 @@
   <img width="500px"  src="https://skillicons.dev/icons?i=py,git,vscode,docker,aws,linux,azure,django,mongo,mysql,c,html,css,react,nodejs,figma&perline=10"  />
 </p>
 
+## Sobre mi
+
 <a href='https://youtu.be/PBEK4ySLbc4' target='_blank'>
   <img align="right" width='30%' src='https://img.youtube.com/vi/PBEK4ySLbc4/mqdefault.jpg' alt='¿Qué es REALMENTE el DATA Science?' />
 </a>
 
-## Sobre mi
 <p align="left">
 <!--Start Intro-->               
 
