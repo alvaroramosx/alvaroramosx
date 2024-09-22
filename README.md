@@ -10,6 +10,13 @@
        style="width: auto; height: 100%; margin-left: -50%; position: relative; left: 50%;">
 </div>
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologías que Manejo👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
 <!--Start Intro-->               
 ## Sobre mi
 
@@ -21,12 +28,6 @@
 - 🎮 Amante del deporte y los videojuegos.
 <!--End Intro-->
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que Manejo👨🏻‍💻</h2></summary>
-  </ul>
-</div>
 <!--tech stack icons-->     
 <p align="center">
   <img width="500px"  src="https://skillicons.dev/icons?i=py,git,vscode,docker,aws,linux,azure,django,mongo,mysql,c,html,css,react,nodejs,figma&perline=10"  />
