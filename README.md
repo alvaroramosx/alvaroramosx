@@ -11,7 +11,7 @@
 </div>
 
 <!--Start Intro-->               
-<p align="left">Soy un Data Scientist y Desarrollador de Python con   and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+## Sobre mi
 
 - ✨ Machine Learning & Deep Learning Developer.
 - 🌱 Actualmente, sigo aprendiendo y explorando el mundo del Data Science y la Inteligencia Artificial.
