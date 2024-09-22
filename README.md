@@ -26,7 +26,7 @@
 
 <!--Start Intro-->
 <a target="_blank" align="center">
-<img  align="right"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/></a>
+<img  align="right"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alvaroramosx&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/></a>
 
 - ✨ Machine Learning & Deep Learning Developer.
   
@@ -41,6 +41,7 @@
 - 🎮 Amante del deporte y los videojuegos.
 <!--End Intro-->
 
+</br>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Únete a Mí 🤝 </h3>
 
 <p align="center">
