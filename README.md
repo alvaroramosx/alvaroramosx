@@ -23,7 +23,7 @@
 </p>
 
 <a href="https://www.youtube.com/watch?v=PBEK4ySLbc4" target="_blank">
-    <img align="right" src="https://img.youtube.com/vi/PBEK4ySLbc4/hqdefault.jpg" alt="Miniatura del video de YouTube">
+    <img align="right" width='30%' src="https://img.youtube.com/vi/PBEK4ySLbc4/hqdefault.jpg" alt="¿Qué es REALMENTE Data Science?">
 </a>
 
 <!--Start Intro-->               
