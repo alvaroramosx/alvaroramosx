@@ -24,9 +24,7 @@
 
 ## Sobre mi
 
-<a href='https://youtu.be/58-2mcn_ze0' target='_blank'>
-  <img align="right" width='30%' src='https://img.youtube.com/vi/58-2mcn_ze0/mqdefault.jpg' alt='¿Qué es REALMENTE el DATA Science?' />
-</a>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
 <p align="left">
 <!--Start Intro-->               
