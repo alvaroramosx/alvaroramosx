@@ -22,6 +22,10 @@
   <img width="500px"  src="https://skillicons.dev/icons?i=py,git,vscode,docker,aws,linux,azure,django,mongo,mysql,c,html,css,react,nodejs,figma&perline=10"  />
 </p>
 
+<a href="https://www.youtube.com/watch?v=PBEK4ySLbc4" target="_blank">
+    <img src="https://img.youtube.com/vi/PBEK4ySLbc4/hqdefault.jpg" alt="Miniatura del video de YouTube">
+</a>
+
 <!--Start Intro-->               
 ## Sobre mi
 
