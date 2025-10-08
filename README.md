@@ -33,7 +33,7 @@
   
 - 🌱 Actualmente, sigo aprendiendo y explorando el mundo del Data Science y la Inteligencia Artificial.
   
-- 💼 Cofundador de [Ipar Estudios](https://iparestudios.com/), agencia especializada en Ciencia de Datos e Investigación de Mercados.
+- 💼 Cofundador de [Ipar Estudios](https://iparestudios.com/), agencia especializada en Ciencia de Datos e IA.
   
 - 🎥 Creador de contenido sobre ciencia de datos en [Youtube](https://www.youtube.com/@alvaroramosx).
   
