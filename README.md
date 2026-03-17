@@ -52,7 +52,7 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc](https://github.com/alvaroramosx/alvaroramosx/">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/alvaroramos.io">
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/alvaroramosx">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/alvaroramosxx">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
